@@ -1,0 +1,4 @@
+interface:
+  display_name: "Closing Speaker（四辩）：摘要与结论"
+  short_description: "从全文证据提炼摘要与结论，组织核心发现、关键证据及文章价值"
+  default_prompt: "请使用 $closing-speaker，依据当前稿件和我的请求撰写、修改或核查摘要或结论，提炼核心发现及文章价值。"

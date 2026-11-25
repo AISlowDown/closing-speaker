@@ -1,0 +1,21 @@
+# System metadata
+.DS_Store
+._*
+__MACOSX/
+Thumbs.db
+
+# Local runtime and generated work
+runtime/
+work/
+outputs/
+reports/
+.cache/
+.venv/
+node_modules/
+__pycache__/
+*.py[cod]
+
+# Local credentials
+.env
+.env.*
+!.env.example
