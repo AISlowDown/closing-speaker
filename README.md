@@ -15,6 +15,8 @@ An academic-writing skill for drafting, revising, shortening, and auditing abstr
 
 ## 安装 / Installation
 
+本仓库公开可访问，无需申请仓库权限。 / This repository is publicly accessible.
+
 将整个仓库放入本地 Codex 技能目录，保留 `references/` 和 `agents/` 结构：
 
 Clone the complete repository into the local Codex skills directory, preserving its folder structure:
