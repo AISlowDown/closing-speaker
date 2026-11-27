@@ -5,6 +5,13 @@ description: "Use when asked to use Closing Speaker or 四辩, or when drafting,
 
 # Closing Speaker（四辩）：摘要与结论
 
+## User manuscript style
+
+- For this user's newly authored or revised academic prose, do not use first-person plural `We/we`, `our`, `ours` or `ourselves`. Name the study, model, analysis or research object as the subject, or use appropriate passive voice. Vary the subject rather than repeatedly opening with `This study`.
+- In paper and thesis titles, headings, abstracts, body text, captions and supplementary prose, use statements or descriptive noun phrases instead of interrogative or rhetorical questions. Express a research question as a specific objective, unresolved relationship or evidence gap without presuming its answer. Descriptive titles need not assert a result.
+- Keep editing labels such as `疑问句转陈述句` out of the finished manuscript. Deliver the revised wording directly; put any requested explanation outside the manuscript.
+- Before delivery, check the authored prose for whole-word first-person forms and question-form sentences or headings, including `?` and `？`. Preserve verbatim quotations, reviewer comments, verified reference or official titles, code, mathematical notation and formal names such as `Weibull`. Internal planning questions and necessary questions to the user remain available. Apply these conventions over conflicting generic voice advice in imported references or templates.
+
 从正文证据中提炼“本文回答了什么问题、发现了什么、带来什么价值”，分别组织为 Abstract 或 Conclusion。先判断用户要求的章节和操作；只处理授权范围。摘要与结论共用证据和核心认识，按各自篇幅与功能选材，避免逐句复制。
 
 ## 模式与参考文件
